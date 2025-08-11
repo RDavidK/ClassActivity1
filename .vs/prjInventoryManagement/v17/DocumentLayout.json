@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\source\\repos\\prjInventoryManagement\\",
+  "WorkspaceRootPath": "C:\\Users\\David Kinghorn\\OneDrive - ADvTECH Ltd\\Documents\\GitHub\\ClassActivity1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C048A440-E98C-4FE9-8F79-4FA25C9E47BC}|prjInventoryManagement\\prjInventoryManagement.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\source\\repos\\prjinventorymanagement\\prjinventorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C048A440-E98C-4FE9-8F79-4FA25C9E47BC}|prjInventoryManagement\\prjInventoryManagement.csproj|c:\\users\\david kinghorn\\onedrive - advtech ltd\\documents\\github\\classactivity1\\prjinventorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C048A440-E98C-4FE9-8F79-4FA25C9E47BC}|prjInventoryManagement\\prjInventoryManagement.csproj|solutionrelative:prjinventorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C048A440-E98C-4FE9-8F79-4FA25C9E47BC}|prjInventoryManagement\\prjInventoryManagement.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\source\\repos\\prjinventorymanagement\\prjinventorymanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C048A440-E98C-4FE9-8F79-4FA25C9E47BC}|prjInventoryManagement\\prjInventoryManagement.csproj|c:\\users\\david kinghorn\\onedrive - advtech ltd\\documents\\github\\classactivity1\\prjinventorymanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C048A440-E98C-4FE9-8F79-4FA25C9E47BC}|prjInventoryManagement\\prjInventoryManagement.csproj|solutionrelative:prjinventorymanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C048A440-E98C-4FE9-8F79-4FA25C9E47BC}|prjInventoryManagement\\prjInventoryManagement.csproj|c:\\users\\david kinghorn\\onedrive - advtech ltd\\documents\\github\\classactivity1\\prjinventorymanagement\\productextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C048A440-E98C-4FE9-8F79-4FA25C9E47BC}|prjInventoryManagement\\prjInventoryManagement.csproj|solutionrelative:prjinventorymanagement\\productextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +30,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\David Kinghorn\\OneDrive - ADvTECH Ltd\\Documents\\GitHub\\ClassActivity1\\prjInventoryManagement\\ProductExtensions.cs",
+              "RelativeDocumentMoniker": "prjInventoryManagement\\ProductExtensions.cs",
+              "ToolTip": "C:\\Users\\David Kinghorn\\OneDrive - ADvTECH Ltd\\Documents\\GitHub\\ClassActivity1\\prjInventoryManagement\\ProductExtensions.cs",
+              "RelativeToolTip": "prjInventoryManagement\\ProductExtensions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:02:22.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\source\\repos\\prjInventoryManagement\\prjInventoryManagement\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\David Kinghorn\\OneDrive - ADvTECH Ltd\\Documents\\GitHub\\ClassActivity1\\prjInventoryManagement\\Product.cs",
               "RelativeDocumentMoniker": "prjInventoryManagement\\Product.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\source\\repos\\prjInventoryManagement\\prjInventoryManagement\\Product.cs",
+              "ToolTip": "C:\\Users\\David Kinghorn\\OneDrive - ADvTECH Ltd\\Documents\\GitHub\\ClassActivity1\\prjInventoryManagement\\Product.cs",
               "RelativeToolTip": "prjInventoryManagement\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T12:32:55.889Z",
               "EditorCaption": ""
@@ -41,14 +58,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\source\\repos\\prjInventoryManagement\\prjInventoryManagement\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\David Kinghorn\\OneDrive - ADvTECH Ltd\\Documents\\GitHub\\ClassActivity1\\prjInventoryManagement\\Program.cs",
               "RelativeDocumentMoniker": "prjInventoryManagement\\Program.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\source\\repos\\prjInventoryManagement\\prjInventoryManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\David Kinghorn\\OneDrive - ADvTECH Ltd\\Documents\\GitHub\\ClassActivity1\\prjInventoryManagement\\Program.cs",
               "RelativeToolTip": "prjInventoryManagement\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T11:09:59.47Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1089,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
